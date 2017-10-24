@@ -1,7 +1,7 @@
 {
-    "name": "ptaq-node",
+    "name": "node-example",
     "version": "1.0.0",
-    "description": "Demoapp for PTaQ meetup",
+    "description": "Demoapp for presentation",
     "author": "Pawel Maciejewski <pawel@maciejewski.in>",
     "main": "server.js",
     "scripts": {

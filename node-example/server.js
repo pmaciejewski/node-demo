@@ -11,7 +11,7 @@ const app = express();
 app.get('/', (req, res) => {
     console.log('/ opened\n')
     res.send(`
-    <p>Hello PTaQ!</p>
+    <p>Hello Trojka!</p>
     <iframe 
         src="https://giphy.com/embed/3oriO0OEd9QIDdllqo" 
         width="480" 
